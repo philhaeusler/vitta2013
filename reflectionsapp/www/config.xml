@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.hello-world" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="philhaeusler.reflectionsapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Reflections</name>
     <description>
-        Reflections App
+        Reflections App (VITTA 2013)
     </description>
     <author email="philhaeusler@gmail.com" href="https://github.com/philhaeusler/vitta2013">
         Phil Haeusler
