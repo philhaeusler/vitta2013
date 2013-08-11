@@ -22,7 +22,7 @@ function setupAddPage()
 
 function showAddPage()
 {
-	$("#new-subject").val("One").selectmenu( "refresh" );
+	$("#new-subject").val("English").selectmenu( "refresh" );
 	$("#new-learning").val("");
 	$("#new-participation").val(0).slider( "refresh" );
 }
