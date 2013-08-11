@@ -1,0 +1,9 @@
+1. Install Phone Gap
+http://docs.phonegap.com/en/3.0.0/guide_cli_index.md.html
+
+2. Install Phone Gap plugins
+phonegap local plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-dialogs.git 
+
+3. Run app in the simulator
+phonegap run ios
+phonegap run android
